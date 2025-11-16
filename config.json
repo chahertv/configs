@@ -2,11 +2,13 @@
   "updated": "auto",
 
   "anime": {
-    "source": "https://www.livechart.me/feeds/episodes"
+    "source": "https://anime-api-six.vercel.app/anime"
   },
 
   "highlights": {
-    "source": "https://www.scorebat.com/video-api/v3/"
+    "sources": [
+      "https://www.youtube.com/feeds/videos.xml?channel_id=UCMvdQQNE7A7C09rPurFez2w"
+    ]
   },
 
   "matches": {
@@ -15,8 +17,10 @@
 
   "news": {
     "sources": [
-      "https://www.france24.com/ar/rss",
-      "https://www.aljazeera.net/feed"
+      "https://www.beinsports.com/ar/rss",
+      "https://www.alarabiya.net/.mrss/ar/sport.xml",
+      "https://www.skynewsarabia.com/sport/rss",
+      "http://feeds.bbci.co.uk/arabic/sports/rss.xml"
     ]
   },
 
