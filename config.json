@@ -1,0 +1,26 @@
+{
+  "updated": "auto",
+
+  "anime": {
+    "source": "https://www.livechart.me/feeds/episodes"
+  },
+
+  "highlights": {
+    "source": "https://www.scorebat.com/video-api/v3/"
+  },
+
+  "matches": {
+    "source": "https://www.scorebat.com/video-api/v3/"
+  },
+
+  "news": {
+    "sources": [
+      "https://www.france24.com/ar/rss",
+      "https://www.aljazeera.net/feed"
+    ]
+  },
+
+  "leagues": {
+    "source": "https://api-football-standings.azharimm.dev/leagues"
+  }
+}
