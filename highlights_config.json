@@ -1,0 +1,19 @@
+{
+  "updated": "2025-10-19",
+  "highlights": [
+    {
+      "title": "Manchester City vs Chelsea (2-1) Highlights",
+      "video_url": "https://www.youtube.com/watch?v=abcd1234",
+      "thumbnail": "https://img.youtube.com/vi/abcd1234/hqdefault.jpg",
+      "man_of_the_match": "Erling Haaland",
+      "stats": { "possession": "61%-39%", "cards": "3", "goals": "3" }
+    },
+    {
+      "title": "Real Madrid vs Barcelona (El Clásico)",
+      "video_url": "https://www.youtube.com/watch?v=wxyz5678",
+      "thumbnail": "https://img.youtube.com/vi/wxyz5678/hqdefault.jpg",
+      "man_of_the_match": "Vinícius Jr",
+      "stats": { "possession": "48%-52%", "cards": "5", "goals": "4" }
+    }
+  ]
+}

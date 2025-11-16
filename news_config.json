@@ -1,0 +1,29 @@
+{
+  "updated": "2025-10-19",
+  "articles": [
+    {
+      "title": "Kylian Mbappé leads PSG to victory in Champions League",
+      "summary": "PSG won 3-0 against Milan as Mbappé scored twice in a dominant performance.",
+      "source": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_sport/messi.jpg",
+      "url": "https://www.bbc.com/sport/football/12345678",
+      "published_at": "2025-10-19T15:00:00Z"
+    },
+    {
+      "title": "Real Madrid prepare for El Clasico showdown",
+      "summary": "Carlo Ancelotti confirms lineup for the highly anticipated clash versus Barcelona.",
+      "source": "ESPN",
+      "image": "https://a.espncdn.com/photo/2025/elclasico.jpg",
+      "url": "https://www.espn.com/soccer/story/_/id/987654321",
+      "published_at": "2025-10-19T12:00:00Z"
+    },
+    {
+      "title": "Erling Haaland reaches 20 goals milestone this season",
+      "summary": "The Manchester City striker continues to dominate the Premier League scoring chart.",
+      "source": "Sky Sports",
+      "image": "https://e0.365dm.com/25/10/haaland.jpg",
+      "url": "https://www.skysports.com/football/news/haaland",
+      "published_at": "2025-10-19T10:30:00Z"
+    }
+  ]
+}

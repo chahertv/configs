@@ -1,0 +1,29 @@
+{
+  "updated": "2025-10-19",
+  "anime_list": [
+    {
+      "title": "Attack on Titan: Final Season",
+      "cover": "https://cdn.myanimelist.net/images/anime/1981/117507.jpg",
+      "rating": 9.2,
+      "episodes": 87,
+      "category": "Action, Drama",
+      "watch_url": "https://anime.example.com/attack-on-titan"
+    },
+    {
+      "title": "Jujutsu Kaisen Season 2",
+      "cover": "https://cdn.myanimelist.net/images/anime/1111/118118.jpg",
+      "rating": 8.8,
+      "episodes": 24,
+      "category": "Adventure, Fantasy",
+      "watch_url": "https://anime.example.com/jujutsu-kaisen"
+    },
+    {
+      "title": "Solo Leveling",
+      "cover": "https://cdn.myanimelist.net/images/anime/1307/140393.jpg",
+      "rating": 9.1,
+      "episodes": 12,
+      "category": "Action, Fantasy",
+      "watch_url": "https://anime.example.com/solo-leveling"
+    }
+  ]
+}

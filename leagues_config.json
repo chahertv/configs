@@ -1,0 +1,23 @@
+{
+  "updated": "2025-10-19",
+  "leagues": [
+    {
+      "name": "Premier League",
+      "country": "England",
+      "standings": [
+        { "position": 1, "team": "Manchester City", "points": 25, "played": 10, "won": 8, "draw": 1, "lost": 1, "goals_for": 26, "goals_against": 9 },
+        { "position": 2, "team": "Arsenal", "points": 23, "played": 10, "won": 7, "draw": 2, "lost": 1, "goals_for": 20, "goals_against": 8 },
+        { "position": 3, "team": "Liverpool", "points": 21, "played": 10, "won": 6, "draw": 3, "lost": 1, "goals_for": 19, "goals_against": 10 }
+      ]
+    },
+    {
+      "name": "La Liga",
+      "country": "Spain",
+      "standings": [
+        { "position": 1, "team": "Real Madrid", "points": 26, "played": 10, "won": 8, "draw": 2, "lost": 0, "goals_for": 23, "goals_against": 5 },
+        { "position": 2, "team": "Barcelona", "points": 24, "played": 10, "won": 7, "draw": 3, "lost": 0, "goals_for": 21, "goals_against": 6 },
+        { "position": 3, "team": "Atletico Madrid", "points": 21, "played": 9, "won": 6, "draw": 3, "lost": 0, "goals_for": 18, "goals_against": 7 }
+      ]
+    }
+  ]
+}

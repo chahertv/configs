@@ -1,0 +1,35 @@
+{
+  "date": "2025-10-19",
+  "matches": [
+    {
+      "league": "Premier League",
+      "home_team": "Manchester City",
+      "away_team": "Chelsea",
+      "time": "18:30",
+      "status": "LIVE",
+      "score": { "home": 2, "away": 1 },
+      "stadium": "Etihad Stadium",
+      "watch_url": "https://example.com/match/man-city-vs-chelsea"
+    },
+    {
+      "league": "La Liga",
+      "home_team": "Real Madrid",
+      "away_team": "Barcelona",
+      "time": "21:00",
+      "status": "UPCOMING",
+      "score": { "home": 0, "away": 0 },
+      "stadium": "Santiago Bernabéu",
+      "watch_url": "https://example.com/match/real-vs-barca"
+    },
+    {
+      "league": "Serie A",
+      "home_team": "Inter Milan",
+      "away_team": "Juventus",
+      "time": "23:00",
+      "status": "FINISHED",
+      "score": { "home": 1, "away": 0 },
+      "stadium": "San Siro",
+      "watch_url": "https://example.com/match/inter-vs-juve"
+    }
+  ]
+}
