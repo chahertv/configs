@@ -1,0 +1,70 @@
+{
+  "ar": [
+    {
+      "name": "MBC 1",
+      "logo": "https://example.com/mbc1.png",
+      "url": "https://mbc1-stream.m3u8",
+      "quality": "HD"
+    },
+    {
+      "name": "Al Jazeera",
+      "logo": "https://example.com/jazeera.png",
+      "url": "https://aljazeera.m3u8",
+      "quality": "FHD"
+    }
+  ],
+
+  "bein": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
+  ],
+
+  "ssc": [
+    {
+      "name": "SSC 1",
+      "logo": "https://example.com/ssc1.png",
+      "url": "https://ssc1-stream.m3u8",
+      "quality": "HD"
+    }
+  ],
+
+  "kids": [
+    {
+      "name": "Spacetoon",
+      "logo": "https://example.com/spacetoon.png",
+      "url": "https://space.m3u8",
+      "quality": "SD"
+    }
+  ],
+
+  "fr": [
+    {
+      "name": "TF1",
+      "logo": "https://example.com/tf1.png",
+      "url": "https://tf1-stream.m3u8",
+      "quality": "HD"
+    }
+  ],
+
+  "sports": [
+    {
+      "name": "Eurosport 1",
+      "logo": "https://example.com/euro1.png",
+      "url": "https://eurosport1.m3u8",
+      "quality": "HD"
+    }
+  ],
+
+  "world": [
+    {
+      "name": "BBC World News",
+      "logo": "https://example.com/bbc.png",
+      "url": "https://bbcworld.m3u8",
+      "quality": "HD"
+    }
+  ]
+}
