@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "name": "قنوات عربية",
+      "logo": "https://example.com/logos/arabic.png",
+      "key": "arabic"
+    },
+    {
+      "name": "قنوات رياضية",
+      "logo": "https://example.com/logos/sports.png",
+      "key": "sports"
+    },
+    {
+      "name": "beIN",
+      "logo": "https://example.com/logos/bein.png",
+      "key": "bein"
+    },
+    {
+      "name": "SSC",
+      "logo": "https://example.com/logos/ssc.png",
+      "key": "ssc"
+    },
+    {
+      "name": "MBC",
+      "logo": "https://example.com/logos/mbc.png",
+      "key": "mbc"
+    },
+    {
+      "name": "OSN",
+      "logo": "https://example.com/logos/osn.png",
+      "key": "osn"
+    },
+    {
+      "name": "قنوات فرنسية",
+      "logo": "https://example.com/logos/france.png",
+      "key": "french"
+    },
+    {
+      "name": "قنوات أطفال",
+      "logo": "https://example.com/logos/kids.png",
+      "key": "kids"
+    }
+  ]
+}
