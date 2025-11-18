@@ -1,0 +1,245 @@
+{
+  "updated": "2025-10-19",
+  "version": "1.0",
+  "meta": {
+    "description": "Channels config for Chaher TV — categories -> countries -> channels. Replace placeholder URLs/logos with real ones.",
+    "limit_smart_loading": {
+      "per_category": 100,
+      "per_country": 50
+    }
+  },
+
+  "categories": [
+    {
+      "id": "arabic_channels",
+      "name": "قنوات عربية",
+      "subcategories": [
+        {
+          "id": "algeria",
+          "name": "الجزائر",
+          "channels": [
+            { "name": "ENTV", "logo": "https://example.com/logos/entv.png", "url": "https://stream.example.com/algeria/entv.m3u8", "quality": "HD", "lang": "ar", "tags": ["general","arabic"] },
+            { "name": "Canal Algérie", "logo": "https://example.com/logos/canalalgerie.png", "url": "https://stream.example.com/algeria/canalalgerie.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] },
+            { "name": "Echorouk TV", "logo": "https://example.com/logos/echorouk.png", "url": "https://stream.example.com/algeria/echorouk.m3u8", "quality": "SD", "lang": "ar", "tags": ["news"] }
+          ]
+        },
+        {
+          "id": "morocco",
+          "name": "المغرب",
+          "channels": [
+            { "name": "Al Aoula", "logo": "https://example.com/logos/alaoula.png", "url": "https://stream.example.com/morocco/alaoula.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] },
+            { "name": "2M", "logo": "https://example.com/logos/2m.png", "url": "https://stream.example.com/morocco/2m.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] },
+            { "name": "Medi 1 TV", "logo": "https://example.com/logos/medi1.png", "url": "https://stream.example.com/morocco/medi1.m3u8", "quality": "SD", "lang": "ar", "tags": ["news"] }
+          ]
+        },
+        {
+          "id": "tunisia",
+          "name": "تونس",
+          "channels": [
+            { "name": "Tunisia TV", "logo": "https://example.com/logos/tv_tn.png", "url": "https://stream.example.com/tunisia/tvtn.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] },
+            { "name": "El Hiwar Ettounsi", "logo": "https://example.com/logos/elhiwar.png", "url": "https://stream.example.com/tunisia/elhiwar.m3u8", "quality": "SD", "lang": "ar", "tags": ["general"] }
+          ]
+        },
+        {
+          "id": "egypt",
+          "name": "مصر",
+          "channels": [
+            { "name": "CBC", "logo": "https://example.com/logos/cbc.png", "url": "https://stream.example.com/egypt/cbc.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] },
+            { "name": "MBC Masr", "logo": "https://example.com/logos/mbc_masr.png", "url": "https://stream.example.com/egypt/mbc_masr.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] },
+            { "name": "Al Nahar", "logo": "https://example.com/logos/alnahar.png", "url": "https://stream.example.com/egypt/alnahar.m3u8", "quality": "SD", "lang": "ar", "tags": ["general"] }
+          ]
+        },
+        {
+          "id": "saudi",
+          "name": "السعودية",
+          "channels": [
+            { "name": "Al Arabiya", "logo": "https://example.com/logos/alarabiya.png", "url": "https://stream.example.com/sa/alarabiya.m3u8", "quality": "HD", "lang": "ar", "tags": ["news"] },
+            { "name": "Rotana Khalijia", "logo": "https://example.com/logos/rotana.png", "url": "https://stream.example.com/sa/rotana.m3u8", "quality": "HD", "lang": "ar", "tags": ["entertainment"] }
+          ]
+        },
+        {
+          "id": "uae",
+          "name": "الإمارات",
+          "channels": [
+            { "name": "Dubai TV", "logo": "https://example.com/logos/dubaitv.png", "url": "https://stream.example.com/uae/dubaitv.m3u8", "quality": "HD", "lang": "ar", "tags": ["general"] }
+          ]
+        },
+        {
+          "id": "qatar",
+          "name": "قطر",
+          "channels": [
+            { "name": "Al Jazeera Arabic", "logo": "https://example.com/logos/aljazeera.png", "url": "https://stream.example.com/qa/aljazeera.m3u8", "quality": "HD", "lang": "ar", "tags": ["news"] }
+          ]
+        },
+        {
+          "id": "bahrain",
+          "name": "البحرين",
+          "channels": [
+            { "name": "Bahrain TV", "logo": "https://example.com/logos/bahraintv.png", "url": "https://stream.example.com/bh/bahraintv.m3u8", "quality": "SD", "lang": "ar", "tags": ["general"] }
+          ]
+        },
+        {
+          "id": "sudan",
+          "name": "السودان",
+          "channels": [
+            { "name": "Sudan TV", "logo": "https://example.com/logos/sudantv.png", "url": "https://stream.example.com/sd/sudantv.m3u8", "quality": "SD", "lang": "ar", "tags": ["general"] }
+          ]
+        },
+        {
+          "id": "mauritania",
+          "name": "موريتانيا",
+          "channels": [
+            { "name": "Mauritania TV", "logo": "https://example.com/logos/mrtv.png", "url": "https://stream.example.com/mr/mrtv.m3u8", "quality": "SD", "lang": "ar", "tags": ["general"] }
+          ]
+        },
+        {
+          "id": "palestine",
+          "name": "فلسطين",
+          "channels": [
+            { "name": "Palestine TV", "logo": "https://example.com/logos/palestine.png", "url": "https://stream.example.com/ps/paltv.m3u8", "quality": "SD", "lang": "ar", "tags": ["general"] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "sports_channels",
+      "name": "قنوات رياضية",
+      "subcategories": [
+        {
+          "id": "bein_arabic",
+          "name": "beIN (العربية)",
+          "channels": [
+            { "name": "beIN Sports 1 HD", "logo": "https://example.com/logos/bein1.png", "url": "https://stream.example.com/bein/bein1.m3u8", "quality": "HD", "lang": "ar", "tags": ["premium","sport"] },
+            { "name": "beIN Sports 2 HD", "logo": "https://example.com/logos/bein2.png", "url": "https://stream.example.com/bein/bein2.m3u8", "quality": "HD", "lang": "ar", "tags": ["premium","sport"] }
+          ]
+        },
+        {
+          "id": "ssc",
+          "name": "SSC",
+          "channels": [
+            { "name": "SSC 1", "logo": "https://example.com/logos/ssc1.png", "url": "https://stream.example.com/ssc/ssc1.m3u8", "quality": "HD", "lang": "ar", "tags": ["premium","sport"] }
+          ]
+        },
+        {
+          "id": "europe_sports",
+          "name": "قنوات رياضية أوروبية",
+          "channels": [
+            { "name": "Sky Sports Main Event", "logo": "https://example.com/logos/sky.png", "url": "https://stream.example.com/sky/sky_main.m3u8", "quality": "HD", "lang": "en", "tags": ["sport","europe"] },
+            { "name": "Canal+ Sport", "logo": "https://example.com/logos/canalplus.png", "url": "https://stream.example.com/canal/canal_sport.m3u8", "quality": "HD", "lang": "fr", "tags": ["sport","europe"] },
+            { "name": "RMC Sport", "logo": "https://example.com/logos/rmc.png", "url": "https://stream.example.com/rmc/rmc_sport.m3u8", "quality": "HD", "lang": "fr", "tags": ["sport","europe"] }
+          ]
+        },
+        {
+          "id": "regional_sport",
+          "name": "قنوات رياضية عربية",
+          "channels": [
+            { "name": "Al Kass", "logo": "https://example.com/logos/alkass.png", "url": "https://stream.example.com/alkass/alkass.m3u8", "quality": "HD", "lang": "ar", "tags": ["sport"] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "kids",
+      "name": "قنوات أطفال",
+      "subcategories": [
+        {
+          "id": "kids_arabic",
+          "name": "قنوات أطفال عربية",
+          "channels": [
+            { "name": "Spacetoon", "logo": "https://example.com/logos/spacetoon.png", "url": "https://stream.example.com/kids/spacetoon.m3u8", "quality": "HD", "lang": "ar", "tags": ["kids"] },
+            { "name": "MBC3", "logo": "https://example.com/logos/mbc3.png", "url": "https://stream.example.com/kids/mbc3.m3u8", "quality": "HD", "lang": "ar", "tags": ["kids"] }
+          ]
+        },
+        {
+          "id": "kids_global",
+          "name": "قنوات أطفال عالمية",
+          "channels": [
+            { "name": "Cartoon Network", "logo": "https://example.com/logos/cartoon.png", "url": "https://stream.example.com/kids/cartoon.m3u8", "quality": "HD", "lang": "en", "tags": ["kids","global"] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "global",
+      "name": "قنوات عالمية",
+      "subcategories": [
+        {
+          "id": "global_news",
+          "name": "قنوات إخبارية عالمية",
+          "channels": [
+            { "name": "BBC World", "logo": "https://example.com/logos/bbc.png", "url": "https://stream.example.com/global/bbc.m3u8", "quality": "HD", "lang": "en", "tags": ["news","global"] },
+            { "name": "CNN", "logo": "https://example.com/logos/cnn.png", "url": "https://stream.example.com/global/cnn.m3u8", "quality": "HD", "lang": "en", "tags": ["news"] }
+          ]
+        },
+        {
+          "id": "international",
+          "name": "قنوات متنوعة عالمية",
+          "channels": [
+            { "name": "Euro News", "logo": "https://example.com/logos/euronews.png", "url": "https://stream.example.com/global/euronews.m3u8", "quality": "HD", "lang": "en", "tags": ["general"] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "islamic",
+      "name": "قنوات إسلامية",
+      "subcategories": [
+        {
+          "id": "islamic_main",
+          "name": "قنوات إسلامية",
+          "channels": [
+            { "name": "Iqraa", "logo": "https://example.com/logos/iqraa.png", "url": "https://stream.example.com/islam/iqraa.m3u8", "quality": "SD", "lang": "ar", "tags": ["religion"] },
+            { "name": "Al Resalah", "logo": "https://example.com/logos/alresalah.png", "url": "https://stream.example.com/islam/alresalah.m3u8", "quality": "SD", "lang": "ar", "tags": ["religion"] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "news",
+      "name": "قنوات إخبارية",
+      "subcategories": [
+        {
+          "id": "arab_news",
+          "name": "أخبار عربية",
+          "channels": [
+            { "name": "Al Jazeera", "logo": "https://example.com/logos/aljazeera.png", "url": "https://stream.example.com/news/aljazeera.m3u8", "quality": "HD", "lang": "ar", "tags": ["news"] },
+            { "name": "Al Arabiya", "logo": "https://example.com/logos/alarabiya.png", "url": "https://stream.example.com/news/alarabiya.m3u8", "quality": "HD", "lang": "ar", "tags": ["news"] }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "packages",
+      "name": "باقات و باقات مدفوعة (كمجموعات)",
+      "subcategories": [
+        {
+          "id": "bein_package",
+          "name": "beIN",
+          "channels": [
+            { "name": "beIN Sports 1", "logo": "https://example.com/logos/bein1.png", "url": "https://stream.example.com/bein/bein1.m3u8", "quality": "HD", "lang": "ar", "tags": ["package","premium"] }
+          ]
+        },
+        {
+          "id": "mbc_package",
+          "name": "MBC",
+          "channels": [
+            { "name": "MBC 1", "logo": "https://example.com/logos/mbc1.png", "url": "https://stream.example.com/mbc/mbc1.m3u8", "quality": "HD", "lang": "ar", "tags": ["package"] }
+          ]
+        },
+        {
+          "id": "osn",
+          "name": "OSN",
+          "channels": [
+            { "name": "OSN First", "logo": "https://example.com/logos/osn.png", "url": "https://stream.example.com/osn/osn_first.m3u8", "quality": "HD", "lang": "ar", "tags": ["package"] }
+          ]
+        }
+      ]
+    }
+  ]
+}
