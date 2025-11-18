@@ -1,5 +1,5 @@
 {
-  "ar": [
+  "arabic channels": [
     {
       "name": "MBC 1",
       "logo": "https://example.com/mbc1.png",
@@ -21,7 +21,63 @@
       "url": "https://example.com/bein1.m3u8",
       "quality": "HD"
     }
+
+    ],
+
+  "algeria": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
+    ],
+
+  "tunisia": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
+    ],
+
+  "marrocco": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
+],
+
+  "egypt": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
+    ],
+
+  "mbc": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
+    ],
+
+  "osn": [
+    {
+      "name": "beIN SPORTS HD 1",
+      "logo": "https://example.com/bein1.png",
+      "url": "https://example.com/bein1.m3u8",
+      "quality": "HD"
+    }
   ],
+  
 
   "ssc": [
     {
